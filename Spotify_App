@@ -1,0 +1,142 @@
+import java.util.*;
+
+// Class to represent a song
+class Song 
+{
+    private String title;
+    private String artist;
+    private double duration; // in minutes
+
+    public Song(String title, String artist, double duration) 
+    {
+        this.title = title;
+        this.artist = artist;
+        this.duration = duration;
+    }
+
+    // Getters
+    public String getTitle() 
+    {
+        return title;
+    }
+
+    public String getArtist() 
+    {
+        return artist;
+    }
+
+    public double getDuration() 
+    {
+        return duration;
+    }
+}
+
+// Class to represent a playlist
+class Playlist
+{
+    private String name;
+    private List<Song> songs;
+
+    public Playlist(String name) 
+    {
+        this.name = name;
+        this.songs = new ArrayList<>();
+    }
+
+    // Method to add a song to the playlist
+    public void addSong(Song song) 
+    {
+        songs.add(song);
+    }
+
+    // Method to display all songs in the playlist
+    public void displaySongs() 
+    {
+        System.out.println("Playlist: " + name);
+        for (Song song : songs) 
+        {
+            System.out.println(song.getTitle() + " by " + song.getArtist() + " (" + song.getDuration() + " mins)");
+        }
+    }
+}
+
+// Class to represent the music player
+class MusicPlayer 
+{
+    private Map<String, Playlist> playlists;
+
+    public MusicPlayer()
+    {
+        this.playlists = new HashMap<>();
+    }
+
+    // Method to create a new playlist
+    public void createPlaylist(String name) 
+    {
+        Playlist playlist = new Playlist(name);
+        playlists.put(name, playlist);
+        System.out.println("Playlist created: " + name);
+    }
+
+    // Method to add a song to a playlist
+    public void addSongToPlaylist(String playlistName, Song song)
+    {
+        Playlist playlist = playlists.get(playlistName);
+        if (playlist != null) {
+            playlist.addSong(song);
+            System.out.println("Song added to playlist: " + song.getTitle());
+        } else {
+            System.out.println("Playlist not found: " + playlistName);
+        }
+    }
+
+    // Method to display all playlists
+    public void displayPlaylists() 
+    {
+        System.out.println("All playlists:");
+        for (String playlistName : playlists.keySet()) 
+        {
+            System.out.println(playlistName);
+        }
+    }
+
+    // Method to display all songs in a playlist
+    public void displayPlaylistSongs(String playlistName) 
+    {
+        Playlist playlist = playlists.get(playlistName);
+        if (playlist != null)
+        {
+            playlist.displaySongs();
+        } else {
+            System.out.println("Playlist not found: " + playlistName);
+        }
+    }
+}
+
+public class Main
+{
+    public static void main(String[] args) 
+    {
+        MusicPlayer musicPlayer = new MusicPlayer();
+
+        // Create some songs
+        Song song1 = new Song("Shape of You", "Ed Sheeran", 4.23);
+        Song song2 = new Song("Rolling in the Deep", "Adele", 3.48);
+        Song song3 = new Song("Despacito", "Luis Fonsi", 3.49);
+
+        // Create playlists
+        musicPlayer.createPlaylist("Pop Hits");
+        musicPlayer.createPlaylist("Favorites");
+
+        // Add songs to playlists
+        musicPlayer.addSongToPlaylist("Pop Hits", song1);
+        musicPlayer.addSongToPlaylist("Favorites", song2);
+        musicPlayer.addSongToPlaylist("Favorites", song3);
+
+        // Display all playlists
+        musicPlayer.displayPlaylists();
+
+        // Display songs in a playlist
+        musicPlayer.displayPlaylistSongs("Favorites");
+    }
+}
