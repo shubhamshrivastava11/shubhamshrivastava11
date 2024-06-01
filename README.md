@@ -27,6 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/ishubham11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishubham11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubhamshrivastava11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamshrivastava11" height="30" width="40" /></a>
+<a href="https://instagram.com/ishubhamshrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishubhamshrivastava" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shubham11795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham11795" height="30" width="40" /></a>
 </p>
 
