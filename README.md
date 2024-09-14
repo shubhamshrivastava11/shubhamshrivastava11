@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ishubham11" target="blank"><img src="https://img.shields.io/twitter/follow/ishubham11?logo=twitter&style=for-the-badge" alt="ishubham11" /></a> </p>
 
-- 🔭 I’m currently working on **Some Exiciting Projects**
+- 🔭 I’m currently working on **Machine Learning-based recommendation engine for Netflix datasets**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **AI-Based Product Performance Visualization for Decision Making**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamshrivastava11](https://github.com/shubhamshrivastava11)
 
