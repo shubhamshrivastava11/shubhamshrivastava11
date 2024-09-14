@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ishubham11" target="blank"><img src="https://img.shields.io/twitter/follow/ishubham11?logo=twitter&style=for-the-badge" alt="ishubham11" /></a> </p>
 
-- 🔭 I’m currently working on **VISA CLIMATE HACKATHON**
+- 🔭 I’m currently working on **Some Exiciting Projects**
 
-- 🌱 I’m currently learning **New Front-End Frameworks**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamshrivastava11](https://github.com/shubhamshrivastava11)
 
