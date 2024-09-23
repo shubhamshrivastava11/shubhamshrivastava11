@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Shrivastava</h1>
-<h3 align="center">A passionate Software Developer based out of US</h3>
+<h3 align="center">A passionate Software and Product Management Professional based out of US</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamshrivastava11&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamshrivastava11" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ishubham11" target="blank"><img src="https://img.shields.io/twitter/follow/ishubham11?logo=twitter&style=for-the-badge" alt="ishubham11" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning-based recommendation engine for Netflix datasets**
+- 🔭 I’m currently working on **Decentralized Energy Blockchain System**
 
 - 🌱 I’m currently learning **AI-Based Product Performance Visualization for Decision Making**
 
