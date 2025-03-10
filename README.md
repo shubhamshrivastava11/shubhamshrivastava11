@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Shubham Shrivastava</h1>
-<h3 align="center">🚀 Product Manager | Business Analyst | Data & Compliance Specialist</h3>
+<h3 align="center">🚀 Product Manager | Business Analyst | Product Enthusiast </h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=shubhamshrivastava11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
