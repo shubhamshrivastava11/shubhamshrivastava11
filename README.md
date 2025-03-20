@@ -1,8 +1,8 @@
 🚀 Shubham Shrivastava
 Certified Product Owner | Certified Scrum Master | Product Manager | Business Analyst
-Helping businesses scale through data-driven decision-making and Agile product execution.
+💡 Helping businesses scale through data-driven decision-making and Agile product execution.
 
-📍 Jersey City, NJ | 📧 shubhamshrivastava813@gmail.com | 🌐 LinkedIn | 💻 GitHub
+📍 Jersey City, NJ | 📧 Email | 🌐 LinkedIn | 💻 GitHub
 
 🏆 Certifications
 <p align="center"> <img src="https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/CSPO.png" alt="Certified Scrum Product Owner" height="100"/> <img src="https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/CSM.png" alt="Certified Scrum Master" height="100"/> <img src="https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/PMI.png" alt="Project Management Institute" height="100"/> <img src="https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/GoogleAnalytics.png" alt="Advanced Google Analytics" height="100"/> </p>
@@ -13,15 +13,15 @@ Helping businesses scale through data-driven decision-making and Agile product e
 ✔ Salesforce Certified Mulesoft Integration Associate
 
 💡 About Me
-I am a Certified Product Owner & Scrum Master with 5+ years of experience in E-Commerce, Banking, FinTech, and Risk & Compliance. I specialize in 0-1 product development, automation, and KPI-driven product execution.
+I am a Certified Product Owner & Scrum Master with 5+ years of experience in E-Commerce, Banking, FinTech, and Risk & Compliance. I specialize in 0-1 product development, automation, and KPI-driven execution.
 
-📊 Key Areas of Focus:
+✨ Key Focus Areas:
+✔ Data-Driven Product Development
+✔ AI-Powered Fraud Detection
+✔ Compliance & Risk Analytics
+✔ Agile Execution & Process Automation
 
-Data-Driven Product Development
-Compliance & Risk Analytics
-AI-Powered Fraud Detection
-Scalable Agile Execution
-🎯 Currently Learning: AI-Based Product Performance Visualization for Decision-Making
+🎯 Currently Exploring: AI-Powered Product Performance Visualization
 
 📂 Work Experience
 🔹 Cygnus Compliance Consulting (2025 - Present) (Banking, FinTech, Risk & Compliance)
@@ -54,8 +54,7 @@ Scalable Agile Execution
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubhamshrivastava11&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamshrivastava11&theme=tokyonight" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamshrivastava11&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" /> </p>
 🌎 Let's Connect
-I'm always open to discussions around Product Management, Data Analytics, FinTech, and AI-driven decision-making. Let’s connect!
+📬 Get in Touch:
+📧 Email | 🌐 LinkedIn | 💻 GitHub
 
-<p align="center"> <a href="https://twitter.com/ishubham11" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /> </a> <a href="https://linkedin.com/in/shubhamshrivastava11" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /> </a> <a href="https://instagram.com/ishubhamshrivastava" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /> </a> <a href="https://www.leetcode.com/shubham11795" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /> </a> </p>
-
-
+<p align="center"> <a href="https://twitter.com/ishubham11" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /> </a> <a href="https://linkedin.com/in/shubhamshrivastava11" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /> </a> <a href="https://www.leetcode.com/shubham11795" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /> </a> </p>
