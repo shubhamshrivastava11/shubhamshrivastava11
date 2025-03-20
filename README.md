@@ -17,8 +17,8 @@
 ## 🏆 **Certifications**  
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/CSPO.png" alt="Certified Scrum Product Owner" height="100"/>
-    <img src="https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/CSM.png" alt="Certified Scrum Master" height="100"/>
+    <img src="[https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/CSPO.png](https://github.com/shubhamshrivastava11/shubhamshrivastava11/blob/main/CSPO.png)" alt="Certified Scrum Product Owner" height="100"/>
+    <img src="[https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/CSM.png](https://github.com/shubhamshrivastava11/shubhamshrivastava11/blob/main/CSM.png)" alt="Certified Scrum Master" height="100"/>
     <img src="https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/PMI.png" alt="Project Management Institute" height="100"/>
     <img src="https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/GoogleAnalytics.png" alt="Advanced Google Analytics" height="100"/>
 </p>
