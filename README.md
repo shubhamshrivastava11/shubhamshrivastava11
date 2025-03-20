@@ -1,8 +1,4 @@
-
----
-  
-# **🚀 Shubham Shrivastava**  
-
+# 🚀 Shubham Shrivastava  
 ### **Certified Product Owner | Certified Scrum Master | Product Manager | Business Analyst**  
 
 💡 **Helping businesses scale through data-driven decision-making and Agile product execution.**  
@@ -14,17 +10,16 @@
 
 ---
 
-## 🏆 **Certifications**  
+## 🏆 Certifications  
 
 <p align="center">
-    <img src="[https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/CSPO.png](https://github.com/shubhamshrivastava11/shubhamshrivastava11/blob/main/CSPO.png)" alt="Certified Scrum Product Owner" height="100"/>
-    <img src="[https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/CSM.png](https://github.com/shubhamshrivastava11/shubhamshrivastava11/blob/main/CSM.png)" alt="Certified Scrum Master" height="100"/>
-    <img src="https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/PMI.png" alt="Project Management Institute" height="100"/>
-    <img src="https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/GoogleAnalytics.png" alt="Advanced Google Analytics" height="100"/>
+    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/CSPO.png" alt="Certified Scrum Product Owner" height="100"/>
+    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/CSM.png" alt="Certified Scrum Master" height="100"/>
+    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/PMI.png" alt="Project Management Institute" height="100"/>
+    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/GoogleAnalytics.png" alt="Advanced Google Analytics" height="100"/>
 </p>
 
 📜 **Certifications:**  
-
 ✔ **Certified Scrum Master (CSM) – Scrum Alliance**  
 ✔ **Certified Scrum Product Owner (CSPO) – Scrum Alliance**  
 ✔ **Advanced Google Analytics – Google**  
@@ -36,7 +31,7 @@
 
 I am a **Certified Product Owner & Scrum Master** with **5+ years of experience** in **E-Commerce, Banking, FinTech, and Risk & Compliance**.  
 
-### **I specialize in:**  
+### **🔍 I specialize in:**  
 ✔ **0-1 Product Development**  
 ✔ **Process Automation & KPI-driven Execution**  
 ✔ **AI-Powered Fraud Detection & Risk Analytics**  
@@ -84,22 +79,24 @@ I am a **Certified Product Owner & Scrum Master** with **5+ years of experience*
 
 ## 🛠 **Tech Stack**  
 
-<p align="center"> 
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-    </a>
-    <a href="https://aws.amazon.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/>
-    </a>
+### **📌 Programming & Scripting**
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="50" height="50"/>
+</p>
+
+### **📌 Cloud & DevOps**
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+</p>
+
+### **📌 Tools & Platforms**
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="JIRA" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" alt="Confluence" width="50" height="50"/>
 </p>
 
 ---
@@ -112,10 +109,6 @@ I am a **Certified Product Owner & Scrum Master** with **5+ years of experience*
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamshrivastava11&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamshrivastava11&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -134,9 +127,4 @@ I am a **Certified Product Owner & Scrum Master** with **5+ years of experience*
     <a href="https://linkedin.com/in/shubhamshrivastava11" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
     </a>
-    <a href="https://www.leetcode.com/shubham11795" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-    </a>
 </p>
-
----
