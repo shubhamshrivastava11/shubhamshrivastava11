@@ -7,6 +7,7 @@ Certified Product Owner | Certified Scrum Master | Product Manager | Business An
 🏆 Certifications
 <p align="center"> <img src="https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/CSPO.png" alt="Certified Scrum Product Owner" height="100"/> <img src="https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/CSM.png" alt="Certified Scrum Master" height="100"/> <img src="https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/PMI.png" alt="Project Management Institute" height="100"/> <img src="https://raw.githubusercontent.com/shubhamshrivastava11/shubhamshrivastava11/main/assets/GoogleAnalytics.png" alt="Advanced Google Analytics" height="100"/> </p>
 📜 Certifications:
+
 ✔ Certified Scrum Master (CSM) – Scrum Alliance
 ✔ Certified Scrum Product Owner (CSPO) – Scrum Alliance
 ✔ Advanced Google Analytics – Google
