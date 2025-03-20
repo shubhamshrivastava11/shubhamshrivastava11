@@ -13,13 +13,13 @@ Certified Product Owner | Certified Scrum Master | Product Manager | Business An
 ✔ Salesforce Certified Mulesoft Integration Associate
 
 💡 About Me
-I am a Certified Product Owner & Scrum Master with 5+ years of experience in E-Commerce, Banking, FinTech, and Risk & Compliance. I specialize in 0-1 product development, automation, and KPI-driven execution.
+I am a Certified Product Owner & Scrum Master with 5+ years of experience in E-Commerce, Banking, FinTech, and Risk & Compliance.
 
-✨ Key Focus Areas:
-✔ Data-Driven Product Development
-✔ AI-Powered Fraud Detection
-✔ Compliance & Risk Analytics
-✔ Agile Execution & Process Automation
+I specialize in:
+✔ 0-1 Product Development
+✔ Process Automation & KPI-driven Execution
+✔ AI-Powered Fraud Detection & Risk Analytics
+✔ Agile Leadership & Cross-Functional Collaboration
 
 🎯 Currently Exploring: AI-Powered Product Performance Visualization
 
