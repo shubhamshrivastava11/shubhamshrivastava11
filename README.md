@@ -12,13 +12,6 @@
 
 ## 🏆 Certifications  
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/CSPO.png" alt="Certified Scrum Product Owner" height="100"/>
-    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/CSM.png" alt="Certified Scrum Master" height="100"/>
-    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/PMI.png" alt="Project Management Institute" height="100"/>
-    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/GoogleAnalytics.png" alt="Advanced Google Analytics" height="100"/>
-</p>
-
 📜 **Certifications:**  
 ✔ **Certified Scrum Master (CSM) – Scrum Alliance**  
 ✔ **Certified Scrum Product Owner (CSPO) – Scrum Alliance**  
