@@ -12,7 +12,7 @@
 
 ## 💡 About Me
 
-I'm a **Product Manager with 5+ years of experience** leading AI/ML product development across **FinTech, GovTech, and HealthTech**. I specialize in product strategy, roadmap planning, and go-to-market execution — with a track record of launching **regulatory-compliant MVPs in under 10 weeks**.
+I'm a **Product Manager with 6+ years of experience** leading AI/ML product development across **FinTech, GovTech, and HealthTech**. I specialize in product strategy, roadmap planning, and go-to-market execution — with a track record of launching **regulatory-compliant MVPs in under 10 weeks**.
 
 ### 🔍 I specialize in:
 ✔ **LLM, NLP & RAG-powered product development**
@@ -85,7 +85,7 @@ I'm a **Product Manager with 5+ years of experience** leading AI/ML product deve
 
 ---
 
-### 🔹 Worldsoft Technologies Pvt Ltd *(Jan 2018 – Nov 2020)* · Bhopal, India
+### 🔹 Worldsoft Technologies Pvt Ltd *(Jan 2018 – Nov 2021)* · Bhopal, India
 **Associate Product Manager, Digital Banking & Lending**
 
 - 🏦 Improved **loan disbursal accuracy by 28%** and **account activation rates by 31%** by managing end-to-end delivery of credit scoring, AML, KYC, and payments API integrations across 2 retail banking platforms (30K+ users)
