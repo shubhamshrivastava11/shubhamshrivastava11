@@ -200,13 +200,19 @@ Focused on building intelligent systems using:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shubhamshrivastava11&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api?username=shubhamshrivastava11&show_icons=true&theme=tokyonight&hide_border=true"
+       alt="GitHub Stats"/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=shubhamshrivastava11&theme=tokyonight&hide_border=true" />
+  <img height="170em"
+       src="https://streak-stats.demolab.com?user=shubhamshrivastava11&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak"/>
 
-<br/><br/>
+  <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamshrivastava11&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamshrivastava11&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Top Languages"/>
 
 </div>
 
