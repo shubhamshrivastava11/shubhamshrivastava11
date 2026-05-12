@@ -1,17 +1,35 @@
-name: Snake Animation
-on: [push, schedule: [{cron: '0 0 * * *'}], workflow_dispatch]
+name: Generate README Snake Animation
+on:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight UTC
+  workflow_dispatch:  # Manual trigger button
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - uses: Platane/snk@v3
+      with:
+        fetch-depth: 0
+
+    - name: Generate Snake
+      uses: Platane/snk@v3
       with:
         github_user_name: 'shubhamshrivastava11'
         outputs: |
-          dist/o/github-contribution-grid-snake.svg
-    - name: Push snake
-      uses: mikeal/rpublish@v2
+          dist/output/github-contribution-grid-snake.svg
+          dist/output/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+    - name: Push to output branch
+      uses: peaceiris/actions-gh-pages@v4
       with:
-        path: ./dist/o
-        branch: gh-pages
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./dist/output
+        publish_branch: output
