@@ -1,150 +1,246 @@
-# 👋 Shubham Shrivastava
-### **Senior Product Manager | AI/ML Products | FinTech · GovTech · HealthTech**
+<!-- ========================================= -->
+<!--          GITHUB PROFILE README           -->
+<!-- ========================================= -->
 
-💡 **Building AI-powered products that scale — from 0-to-1 MVPs to enterprise platform modernization.**
+<h1 align="center">Hi 👋, I'm Shubham Shrivastava</h1>
 
-📍 **Jersey City, NJ** · Open to Relocation
-📧 [shrivastavashubham110@gmail.com](mailto:shrivastavashubham110@gmail.com)
-🌐 [LinkedIn](https://linkedin.com/in/shubhamshrivastava11)
-💻 [GitHub](https://github.com/shubhamshrivastava11)
-
----
-
-## 💡 About Me
-
-I'm a **Product Manager with 6+ years of experience** leading AI/ML product development across **FinTech, GovTech, and HealthTech**. I specialize in product strategy, roadmap planning, and go-to-market execution — with a track record of launching **regulatory-compliant MVPs in under 10 weeks**.
-
-### 🔍 I specialize in:
-✔ **LLM, NLP & RAG-powered product development**
-✔ **0-to-1 MVP delivery & Go-to-Market execution**
-✔ **AI-driven fraud detection, AML & compliance platforms**
-✔ **Cross-functional leadership & data-driven prioritization**
-✔ **Agile (Scrum, SAFe, Kanban) delivery at scale**
-
----
-
-## 🏆 Certifications
-
-✔ **Certified Scrum Product Owner (CSPO)** – Scrum Alliance
-✔ **Certified Scrum Master (CSM)** – Scrum Alliance
-✔ **Advanced Google Analytics** – Google
-✔ **Product Analytics Certification**
-
----
-
-## 📂 Work Experience
-
-### 🔹 Johnson & Johnson *(Oct 2025 – Present)* · Jersey City, NJ
-**Senior Product Manager, Enterprise AI & Platform Modernization**
-
-**AP Portal – SAP Legacy to Cloud Migration** *(11 engineers, 2 data scientists, 1 architect)*
-- 🚀 Drove a **38% reduction in invoice processing cycle time** across 5 global regions (200K+ annual transactions) by leading full SAP-to-AWS cloud-native microservices migration
-- 🤖 Delivered an **NLP + RAG invoice extraction pipeline** with LLM hallucination guardrails & PII controls — freeing **400+ analyst hours/month** across 3 regional finance teams
-
-**eMarketplace – MedTech B2B SaaS Platform** *(8 engineers, 1 designer, 1 data scientist)*
-- 📦 Reduced **supplier onboarding time by 25%** across 500+ active supplier accounts by owning the end-to-end product roadmap tied to quarterly OKRs
-- 🛡 Cut **downstream compliance reporting errors by 40%** by launching an AI-powered chatbot with ML anomaly detection integrated into ERP and workflow APIs
-
----
-
-### 🔹 Deloitte Consulting LLP *(May 2025 – Oct 2025)* · Jersey City, NJ
-**Product Manager, B2B SaaS – Government Finance & Compliance Platform**
-
-- 📊 Achieved a **41% improvement in platform data accuracy** across 6 compliance modules serving 15+ state agencies via a structured UAT cycle that caught 50+ defects pre-launch
-- 🧠 Reduced **duplicate sprint waste by 34%** using AI-assisted text clustering across 1,200+ backlog items
-- ⚡ Cut **bug resolution time by 60%** (4 days → 1.6 days) by redesigning the QA-to-engineering intake workflow
-- ✅ Delivered **4 compliance modules on time** across competing multi-agency priorities
-
----
-
-### 🔹 Cygnus Compliance Consulting *(Jan 2025 – Mar 2025)* · New York, NY
-**Product Manager, Regulatory Reporting & AML Compliance Platform**
-
-- 🏁 Launched a **compliance-ready MVP in 8 weeks**, enabling $50M+ in regulated transaction reporting at launch (ISO 20022 & PCI-DSS aligned)
-- 🤖 Saved **12 hours per AML review cycle** via Python-based rule engines and ML classification pipelines with PII anonymization
-- 🎨 Improved submission accuracy from **85% → 97%** through 3 rounds of usability testing and Figma-based UI/UX redesign
-- 📉 Reduced **ticket escalations by 60%+** (5.5 → 1.8/day) in 2 sprint cycles through VoC-driven fix queue reprioritization
-
----
-
-### 🔹 Digital iTechnology *(Mar 2024 – Dec 2024)* · Austin, TX
-**Product Manager, Consumer Mobile Application**
-
-- 📱 Grew a user base **from 0 to 75K installs**, achieving a **40% DAU/MAU ratio increase** within Q1 post-launch
-- 🔁 Improved **onboarding completion rate by 33%** by identifying drop-off points through funnel analysis and shipping the winning variant from 5 A/B tests in 6 weeks
-- 📈 Lifted **user retention by 15 points** (46% → 61%) over two quarters with behavioral analytics and cohort-based feature roadmap
-- ⏱ Cut **release cycle duration by 50%** (6 weeks → 3 weeks) by embedding QA in active development sprints
-
----
-
-### 🔹 Openlogix (K2 Partnering Solutions) *(Jun 2023 – Sep 2023)* · Bloomfield Hills, MI
-**Associate Product Manager, Digital Investment Platform**
-
-- 💰 Delivered a compliance-ready investment advisory **MVP at pilot launch with $2.5M AUM**
-- 📐 Reduced **roadmap sequencing delays by 35%** using ICE scoring backed by SQL and Power BI analysis of 50,000+ customer records
-
----
-
-### 🔹 Worldsoft Technologies Pvt Ltd *(Jan 2018 – Nov 2021)* · Bhopal, India
-**Associate Product Manager, Digital Banking & Lending**
-
-- 🏦 Improved **loan disbursal accuracy by 28%** and **account activation rates by 31%** by managing end-to-end delivery of credit scoring, AML, KYC, and payments API integrations across 2 retail banking platforms (30K+ users)
-- 📉 Reduced **transaction-related support tickets by 45%** and built SQL dashboards tracking 12+ KPIs for data governance and compliance reporting
-
----
-
-## 🎓 Education
-
-🎓 **M.S. in Information Technology Management** – *Oakland University, MI* *(2022 – 2023)*
-🎓 **B.E. in Computer Science** – *Rajiv Gandhi Proudyogiki Vishwavidyalaya, India* *(2013 – 2017)*
-
----
-
-## 🛠 Skills
-
-### 🤖 AI & Machine Learning
-`LLMs` `RAG` `NLP` `ML Model Evaluation` `Anomaly Detection` `AI Chatbot Development` `Generative AI` `Prompt Engineering` `LLM Hallucination Mitigation` `Responsible AI`
-
-### 📌 Product Management
-`Product Lifecycle Management` `Product Strategy` `Roadmapping` `MVP` `PRD` `ICE/RICE Scoring` `GTM Strategy` `Voice of Customer (VoC)` `A/B Testing` `Funnel Analysis` `Cohort Analysis` `OKRs` `KPI Tracking` `Stakeholder Management` `User Research` `Usability Testing` `UAT`
-
-### 💻 Technical
-`SQL` `Python (Pandas, NumPy)` `REST APIs` `Microservices Architecture` `AWS` `SAP` `CI/CD Pipelines` `Azure DevOps` `Git`
-
-### 📊 Data & Analytics
-`Power BI` `Tableau` `Amplitude` `Mixpanel` `Data Governance` `Data Quality` `Collibra`
-
-### 🛡 Compliance & FinTech
-`AML` `KYC` `PCI-DSS` `ISO 20022` `Regulatory Reporting` `Credit Scoring` `Payments API` `Financial Risk Management` `PII Handling`
-
-### 🔧 Tools
-`Jira` `Confluence` `Figma` `Productboard` `Miro` `Smartsheet` `Notion` `Slack`
-
-### ⚡ Agile Delivery
-`Scrum` `SAFe` `Kanban` `Sprint Planning` `Backlog Grooming` `Release Management` `Cross-Functional Team Leadership`
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">
+Senior Product Manager • AI/ML Products • FinTech • GovTech • HealthTech
+</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shubhamshrivastava11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamshrivastava11&theme=tokyonight" alt="GitHub Streak" />
+Building AI-powered products that scale — from 0→1 MVPs to enterprise modernization
 </p>
 
 ---
 
-## 🌎 Let's Connect
+<div align="center">
 
-📧 [shrivastavashubham110@gmail.com](mailto:shrivastavashubham110@gmail.com)
-🌐 [LinkedIn](https://linkedin.com/in/shubhamshrivastava11)
-💻 [GitHub](https://github.com/shubhamshrivastava11)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI%2FML+Product+Manager;LLM+%7C+RAG+%7C+Enterprise+AI;FinTech+%7C+GovTech+%7C+HealthTech;Building+Scalable+AI+Platforms;Product+Strategy+%7C+Roadmaps+%7C+GTM" alt="Typing SVG" />
 
-<p align="center">
-    <a href="https://linkedin.com/in/shubhamshrivastava11" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-    </a>
-</p>
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+Name: Shubham Shrivastava
+Location: Jersey City, NJ
+Role: Senior Product Manager
+Experience: 6+ Years
+Domains:
+  - FinTech
+  - GovTech
+  - HealthTech
+Focus Areas:
+  - LLM & RAG Products
+  - Enterprise AI Platforms
+  - Product Strategy & GTM
+  - AI Compliance & Governance
+  - Cloud-Native Transformation
+```
+
+---
+
+## 🧠 What I Specialize In
+
+<div align="center">
+
+| AI & ML Products | Product Strategy | Technical Expertise |
+|------------------|-----------------|---------------------|
+| LLM Applications | Roadmaps & GTM | SQL & Python |
+| RAG Architectures | MVP Development | AWS & SAP |
+| NLP Workflows | ICE / RICE Prioritization | REST APIs |
+| AI Automation | User Research & Analytics | Microservices |
+| AI Governance | Agile Product Delivery | CI/CD Pipelines |
+
+</div>
+
+---
+
+# 💼 Professional Experience
+
+## 🔹 Johnson & Johnson
+### Senior Product Manager — Enterprise AI & Platform Modernization
+📍 Jersey City, NJ • Oct 2025 – Present
+
+### Enterprise AP Transformation
+- Led SAP-to-AWS modernization initiative reducing invoice processing cycle time by **38%**
+- Delivered **RAG-powered invoice extraction pipelines** with hallucination guardrails & PII controls
+- Reclaimed **400+ analyst hours/month** through AI workflow automation
+
+### eMarketplace — MedTech SaaS Platform
+- Reduced supplier onboarding friction by **25%**
+- Built AI-driven anomaly detection workflows integrated with ERP systems
+- Improved compliance reporting accuracy by **40%**
+
+---
+
+## 🔹 Deloitte Consulting LLP
+### Product Manager — Government Compliance Platforms
+📍 Jersey City, NJ • May 2025 – Oct 2025
+
+- Improved platform data accuracy by **41%**
+- Reduced duplicate sprint effort by **34%**
+- Optimized QA workflows reducing resolution time from **4 days → 1.6 days**
+- Delivered multi-agency compliance modules on schedule
+
+---
+
+## 🔹 Cygnus Compliance Consulting
+### Product Manager — AML & Regulatory Reporting
+📍 New York, NY • Jan 2025 – Mar 2025
+
+- Delivered compliance-ready MVP in **8 weeks**
+- Supported **$50M+** regulated transaction reporting at launch
+- Improved submission success rate from **85% → 97%**
+- Built ML-assisted AML monitoring workflows
+
+---
+
+## 🔹 Digital iTechnology
+### Product Manager — Consumer Mobile Application
+📍 Austin, TX • Mar 2024 – Dec 2024
+
+- Scaled product from **0 → 75K installs**
+- Improved onboarding conversion by **33%**
+- Increased retention from **46% → 61%**
+- Reduced release cycle duration by **50%**
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+### Cloud / Backend
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" />
+
+### Product & Analytics
+
+<img src="https://img.shields.io/badge/Productboard-FF6B6B?style=for-the-badge&logo=producthunt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+
+</div>
+
+---
+
+# 📊 Product & AI Focus Areas
+
+<div align="center">
+
+| AI Products | Product Management | Data & Compliance |
+|-------------|-------------------|------------------|
+| LLMs | Product Lifecycle | AML/KYC |
+| RAG Systems | PRDs | PCI-DSS |
+| NLP | GTM Strategy | ISO 20022 |
+| AI Chatbots | A/B Testing | Data Governance |
+| Prompt Engineering | Roadmapping | PII Handling |
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhamshrivastava11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamshrivastava11&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamshrivastava11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🏆 Certifications
+
+<div align="center">
+
+| Certification | Organization |
+|---------------|--------------|
+| CSPO | Scrum Alliance |
+| CSM | Scrum Alliance |
+| Advanced Google Analytics | Google |
+| Product Analytics Certification | Professional Certification |
+
+</div>
+
+---
+
+# 🎓 Education
+
+### Oakland University
+**M.S. Information Technology Management**  
+2022 – 2023
+
+### Rajiv Gandhi Proudyogiki Vishwavidyalaya
+**B.E. Computer Science**  
+2013 – 2017
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:shubhamshrivastava813@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/shubhamshrivastava11">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shubhamshrivastava11">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📌 Current Focus
+
+```text
+→ Enterprise AI & Platform Modernization
+→ RAG-based Workflow Automation
+→ AI Governance & Responsible AI
+→ Product Strategy for AI SaaS Platforms
+→ Scalable Compliance & FinTech Systems
+```
+
+---
+
+# ⚡ Fun Fact
+
+```diff
++ I enjoy transforming complex enterprise workflows into scalable AI-driven experiences.
+```
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, feel free to connect and collaborate
+
+<img src="https://komarev.com/ghpvc/?username=shubhamshrivastava11&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
