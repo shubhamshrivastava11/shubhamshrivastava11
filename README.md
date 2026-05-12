@@ -1,6 +1,6 @@
-<!-- =============================================== -->
-<!--            SHUBHAM SHRIVASTAVA README          -->
-<!-- =============================================== -->
+<!-- ========================================================= -->
+<!--              SHUBHAM SHRIVASTAVA - README                -->
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -8,23 +8,32 @@
 
 ### Senior Product Manager • AI/ML Products • FinTech • GovTech • HealthTech
 
-<p align="center">
-  <a href="https://linkedin.com/in/shubhamshrivastava11">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:shubhamshrivastava813@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/shubhamshrivastava11">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p>
+Building AI-powered platforms that scale — from 0→1 MVPs to enterprise modernization
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI%2FML+Product+Manager;Enterprise+AI+%7C+LLM+%7C+RAG;FinTech+%7C+GovTech+%7C+HealthTech;Product+Strategy+%7C+Roadmaps+%7C+GTM;Building+Scalable+AI+Platforms" alt="Typing SVG" />
-
 <br/>
+
+<a href="https://linkedin.com/in/shubhamshrivastava11">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shubhamshrivastava813@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shubhamshrivastava11">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=AI%2FML+Product+Manager;Enterprise+AI+%7C+LLMs+%7C+RAG;FinTech+%7C+GovTech+%7C+HealthTech;Product+Strategy+%7C+Roadmaps+%7C+GTM;Building+Scalable+AI+Platforms"
+  alt="Typing Animation"
+/>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=shubhamshrivastava11&label=Profile%20Views&color=0e75b6&style=flat" />
 
@@ -44,7 +53,7 @@ Specializations:
   - Enterprise AI Platforms
   - LLM & RAG Product Development
   - Product Strategy & GTM
-  - FinTech & Compliance Systems
+  - AI Governance & Compliance
   - Cloud-Native Modernization
 
 Industries:
@@ -57,9 +66,17 @@ Industries:
 
 # Professional Summary
 
-Product Manager with extensive experience delivering AI-powered enterprise platforms, compliance systems, and scalable SaaS applications across FinTech, GovTech, and HealthTech domains.
+Product Manager with extensive experience delivering AI-powered enterprise platforms, compliance systems, and scalable SaaS applications across FinTech, GovTech, and HealthTech.
 
-Experienced in leading the complete product lifecycle from discovery and roadmap planning to execution, launch, analytics, and optimization. Passionate about building intelligent systems using LLMs, RAG architectures, NLP workflows, and AI-driven automation.
+Experienced in leading the complete product lifecycle from discovery and roadmap planning to execution, analytics, optimization, and go-to-market delivery.
+
+Focused on building intelligent systems using:
+
+- LLMs & RAG Architectures
+- NLP & AI Automation
+- Enterprise SaaS Platforms
+- Product Analytics & Experimentation
+- AI Governance & Compliance
 
 ---
 
@@ -67,14 +84,14 @@ Experienced in leading the complete product lifecycle from discovery and roadmap
 
 <div align="center">
 
-| AI & Machine Learning | Product Management | Technical & Cloud |
-|----------------------|-------------------|------------------|
+| AI & Machine Learning | Product Leadership | Technical Expertise |
+|----------------------|-------------------|--------------------|
 | LLM Applications | Product Strategy | AWS |
-| RAG Systems | Roadmapping | SAP |
-| NLP Pipelines | MVP Development | SQL |
-| Prompt Engineering | GTM Strategy | Python |
-| AI Governance | Agile Delivery | REST APIs |
-| Anomaly Detection | Stakeholder Management | Microservices |
+| RAG Systems | Roadmapping | SQL |
+| NLP Pipelines | GTM Execution | Python |
+| Prompt Engineering | MVP Delivery | REST APIs |
+| AI Automation | Agile Delivery | Microservices |
+| Responsible AI | Stakeholder Management | CI/CD |
 
 </div>
 
@@ -82,17 +99,17 @@ Experienced in leading the complete product lifecycle from discovery and roadmap
 
 # Professional Experience
 
-## Johnson & Johnson  
-### Senior Product Manager — Enterprise AI & Platform Modernization  
+## Johnson & Johnson
+### Senior Product Manager — Enterprise AI & Platform Modernization
 📍 Jersey City, NJ • Oct 2025 – Present
 
 #### Enterprise AP Transformation
-- Led SAP-to-AWS cloud modernization initiative reducing invoice processing cycle time by **38%**
+- Led SAP-to-AWS modernization initiative reducing invoice processing cycle time by **38%**
 - Delivered enterprise-grade **RAG-powered invoice extraction pipelines** with hallucination guardrails and PII governance
-- Automated workflows reclaiming **400+ analyst hours per month**
-- Partnered with engineering and data science teams to establish scalable AI governance frameworks
+- Automated workflows reclaiming **400+ analyst hours/month**
+- Partnered with engineering and data science teams to define scalable AI governance standards
 
-#### eMarketplace — MedTech B2B SaaS Platform
+#### eMarketplace — MedTech SaaS Platform
 - Reduced supplier onboarding friction by **25%**
 - Built AI-driven anomaly detection workflows integrated with ERP systems
 - Improved compliance reporting accuracy by **40%**
@@ -100,8 +117,8 @@ Experienced in leading the complete product lifecycle from discovery and roadmap
 
 ---
 
-## Deloitte Consulting LLP  
-### Product Manager — Government Compliance Platforms  
+## Deloitte Consulting LLP
+### Product Manager — Government Compliance Platforms
 📍 Jersey City, NJ • May 2025 – Oct 2025
 
 - Improved platform data accuracy by **41%**
@@ -111,8 +128,8 @@ Experienced in leading the complete product lifecycle from discovery and roadmap
 
 ---
 
-## Cygnus Compliance Consulting  
-### Product Manager — AML & Regulatory Reporting  
+## Cygnus Compliance Consulting
+### Product Manager — AML & Regulatory Reporting
 📍 New York, NY • Jan 2025 – Mar 2025
 
 - Delivered compliance-ready MVP in **8 weeks**
@@ -122,8 +139,8 @@ Experienced in leading the complete product lifecycle from discovery and roadmap
 
 ---
 
-## Digital iTechnology  
-### Product Manager — Consumer Mobile Application  
+## Digital iTechnology
+### Product Manager — Consumer Mobile Application
 📍 Austin, TX • Mar 2024 – Dec 2024
 
 - Scaled product from **0 → 75K installs**
@@ -137,7 +154,7 @@ Experienced in leading the complete product lifecycle from discovery and roadmap
 
 <div align="center">
 
-## AI / ML
+## AI / Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
@@ -154,9 +171,9 @@ Experienced in leading the complete product lifecycle from discovery and roadmap
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Productboard-FF6B6B?style=for-the-badge&logo=producthunt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Productboard-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 </div>
@@ -167,7 +184,7 @@ Experienced in leading the complete product lifecycle from discovery and roadmap
 
 <div align="center">
 
-| AI Systems | Product Leadership | Data & Compliance |
+| AI Systems | Product Management | Data & Compliance |
 |------------|-------------------|------------------|
 | LLMs | Product Lifecycle | AML/KYC |
 | RAG Architectures | PRDs | PCI-DSS |
@@ -183,13 +200,13 @@ Experienced in leading the complete product lifecycle from discovery and roadmap
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhamshrivastava11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shubhamshrivastava11&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamshrivastava11&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=shubhamshrivastava11&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamshrivastava11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamshrivastava11&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -227,14 +244,14 @@ Experienced in leading the complete product lifecycle from discovery and roadmap
 ```text
 → Enterprise AI & Platform Modernization
 → RAG-Based Workflow Automation
-→ Responsible AI & AI Governance
+→ Responsible AI & Governance
 → Product Strategy for AI SaaS Platforms
 → Scalable FinTech & Compliance Systems
 ```
 
 ---
 
-# Let's Connect
+# Connect With Me
 
 <div align="center">
 
@@ -254,10 +271,26 @@ Experienced in leading the complete product lifecycle from discovery and roadmap
 
 ---
 
+# Featured Highlights
+
+<div align="center">
+
+| Metric | Impact |
+|--------|---------|
+| AI Workflow Automation | 400+ Analyst Hours Saved / Month |
+| Enterprise Modernization | 38% Faster Invoice Processing |
+| Consumer Product Growth | 75K+ Installs |
+| Compliance Accuracy | 97% Submission Success Rate |
+| Product Delivery | MVPs Delivered in Under 10 Weeks |
+
+</div>
+
+---
+
 <div align="center">
 
 ### Building intelligent AI products that create measurable business impact
 
-⭐️ Open to collaborating on AI, SaaS, FinTech, and Product Strategy initiatives
+⭐ Open to collaboration in AI, SaaS, Product Strategy, and Enterprise Platforms
 
 </div>
