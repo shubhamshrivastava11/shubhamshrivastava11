@@ -105,27 +105,35 @@ Expertise:
 - AI anomaly detection + ERP integration, **40% fewer data errors**.
 
 ### 📋 **Deloitte Consulting**  
-**Product Manager — Government Compliance**  
-*Jersey City, NJ • May-Oct 2025 (MD Dept. of Education)*
+**Product Manager — Government & Public Sector Compliance Platform**  
+*Jersey City, NJ • May-Oct 2025*
 
 - UAT for 6 modules, **41% higher data accuracy**.
 - Text-clustered 1,200-item backlog, **34% sprint velocity boost**.
 - QA triage redesign, **4 days → 1.6 days** defect resolution.
 
 ### 🏦 **Cygnus Compliance**  
-**Product Manager — AML & Regulatory**  
-*New York, NY • Jan-Mar 2025 (Bank of China)*
+**Product Manager — AML & Regulatory Compliance Technology**  
+*New York, NY • Jan-Mar 2025*
 
 - ISO 20022/PCI-DSS MVP in **8 weeks**, **$50M+ transactions**.
 - Python AML models, **85% → 97%** success rate.
 
 ### 📱 **Digital iTechnology**  
-**Product Manager — D2C Mobile App**  
+**Product Manager — D2C Consumer Mobile Platform**  
 *Austin, TX • Mar-Dec 2024*
 
 - **75K installs**, **33% onboarding**, **46%→61% retention**.
 - **40% DAU/MAU lift** via notifications + cohorts.
 
+### 📊 **Worldsoft Technologies**  
+**Business Analyst — FinTech & Retail Platforms**  
+*India • Jan 2018 - Dec 2020*
+
+- **30K+ users scaled, **31% activation uplift via API-driven banking workflows.
+- **20% reduction in loan processing effort through automated validation logic.
+- **45% reduction in manual reporting via SQL dashboards & KPI automation.
+- **End-to-end requirement ownership across credit scoring & digital payments.
 ---
 
 ## 🛠️ Tech Stack
