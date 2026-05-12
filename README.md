@@ -130,10 +130,10 @@ Expertise:
 **Business Analyst — FinTech & Retail Platforms**  
 *India • Jan 2018 - Dec 2020*
 
-- **30K+ users scaled, **31% activation uplift via API-driven banking workflows.
-- **20% reduction in loan processing effort through automated validation logic.
-- **45% reduction in manual reporting via SQL dashboards & KPI automation.
-- **End-to-end requirement ownership across credit scoring & digital payments.
+- 30K+ users scaled, 31% activation uplift via API-driven banking workflows.
+- 20% reduction in loan processing effort through automated validation logic.
+- 45% reduction in manual reporting via SQL dashboards & KPI automation.
+- End-to-end requirement ownership across credit scoring & digital payments.
 ---
 
 ## 🛠️ Tech Stack
