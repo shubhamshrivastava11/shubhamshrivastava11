@@ -33,7 +33,10 @@ Building AI-powered platforms that scale — from 0→1 MVPs to enterprise moder
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=shubhamshrivastava11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img
+  src="https://komarev.com/ghpvc/?username=shubhamshrivastava11&label=Profile%20Views&color=0e75b6&style=flat"
+  alt="Profile views"
+/>
 
 </div>
 
@@ -225,6 +228,20 @@ Austin, TX • Mar 2024 – Dec 2024
 
 ---
 
+## Featured Projects
+
+<div align="center">
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Enterprise AI Platform | LLM + RAG workflow automation for regulated enterprise use cases | [View Project](https://example.com) |
+| Compliance SaaS | Governance and compliance automation across multi-agency workflows | [View Project](https://example.com) |
+| Product Analytics Dashboard | KPI-driven product insights and experimentation tracking | [View Project](https://example.com) |
+
+</div>
+
+---
+
 ## Certifications
 
 <div align="center">
@@ -277,6 +294,22 @@ Bachelor of Engineering — Computer Science
 <a href="https://github.com/shubhamshrivastava11">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
+</div>
+
+---
+
+## Professional Highlights
+
+<div align="center">
+
+| Metric | Impact |
+|--------|--------|
+| AI Workflow Automation | 400+ analyst hours saved per month |
+| Enterprise Modernization | 38% faster invoice processing |
+| Consumer Product Growth | 75K+ installs |
+| Compliance Accuracy | 97% submission success rate |
+| Product Delivery | MVPs delivered in under 10 weeks |
 
 </div>
 
