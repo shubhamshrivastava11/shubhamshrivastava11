@@ -15,7 +15,7 @@ Expert in shipping LLM/RAG platforms that drive $2.4M+ cost savings, 38% faster 
 <br />
 
 <a href="https://linkedin.com/in/shubhamshrivastava11">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:shubhamshrivastava813@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -57,27 +57,13 @@ Expert in shipping LLM/RAG platforms that drive $2.4M+ cost savings, 38% faster 
 
 </div>
 
-<br />
-
-<div align="center">
-<a href="#experience">
-  <img src="https://img.shields.io/badge/View-Experience-6366f1?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Experience" />
-</a>
-<a href="#tech-stack">
-  <img src="https://img.shields.io/badge/View-Tech-10b981?style=for-the-badge&logo=simple-icons&logoColor=white" alt="Tech Stack" />
-</a>
-<a href="#projects">
-  <img src="https://img.shields.io/badge/View-Projects-f59e0b?style=for-the-badge&logo=simple-icons&logoColor=white" alt="Projects" />
-</a>
-</div>
-
 ---
 
 ## About
 
 ```yaml
 Name: Shubham Shrivastava
-Role: Senior Product Manager
+Role: Senior Product Manager  
 Location: Jersey City, NJ
 Experience: 6+ Years
 Phone: (224) 578-8986
@@ -88,9 +74,6 @@ Expertise:
   - Product Lifecycle Management
   - AI Governance & Compliance
   - GTM Strategy & Execution
-
-Industries:
-  - FinTech -  MedTech -  GovTech
 ```
 
 ---
@@ -116,32 +99,32 @@ Industries:
 **Senior Product Manager — Enterprise AI & Platform**  
 *Jersey City, NJ • Oct 2025 – Present*
 
-- Led global AP transformation from SAP→AWS, delivering **$2.4M annual savings** and **38% cycle time reduction** [file:21].
-- Shipped RAG invoice extraction with LLM guardrails, saving **400+ analyst hours/month** [file:21].
-- Prioritized 200-item backlog using ICE scoring, cutting supplier onboarding by **25%** [file:21].
-- Launched AI anomaly detection integrated with ERP, reducing data errors by **40%** [file:21].
+- Led global AP transformation **SAP→AWS**, **$2.4M savings**, **38% cycle time reduction** [file:21].
+- Shipped RAG invoice extraction + LLM guardrails, **400+ hours saved/month** [file:21].
+- ICE-scored 200-item backlog, **25% faster supplier onboarding** [file:21].
+- AI anomaly detection + ERP integration, **40% fewer data errors** [file:21].
 
 ### 📋 **Deloitte Consulting**  
 **Product Manager — Government Compliance**  
-*Jersey City, NJ • May 2025 – Oct 2025 (Maryland Dept. of Education)*
+*Jersey City, NJ • May-Oct 2025 (MD Dept. of Education)*
 
-- Managed UAT for 6 compliance modules, achieving **41% higher data accuracy** [file:21].
-- Restructured 1,200-item backlog with text clustering, boosting sprint velocity **34%** [file:21].
-- Redesigned QA triage, cutting defect resolution from **4 days → 1.6 days** [file:21].
+- UAT for 6 modules, **41% higher data accuracy** [file:21].
+- Text-clustered 1,200-item backlog, **34% sprint velocity boost** [file:21].
+- QA triage redesign, **4 days → 1.6 days** defect resolution [file:21].
 
 ### 🏦 **Cygnus Compliance**  
 **Product Manager — AML & Regulatory**  
-*New York, NY • Jan 2025 – Mar 2025 (Bank of China)*
+*New York, NY • Jan-Mar 2025 (Bank of China)*
 
-- Launched ISO 20022/PCI-DSS MVP in **8 weeks**, processing **$50M+ transactions** [file:21].
-- Automated AML monitoring with Python models, improving success rate **85% → 97%** [file:21].
+- ISO 20022/PCI-DSS MVP in **8 weeks**, **$50M+ transactions** [file:21].
+- Python AML models, **85% → 97%** success rate [file:21].
 
 ### 📱 **Digital iTechnology**  
 **Product Manager — D2C Mobile App**  
-*Austin, TX • Mar 2024 – Dec 2024*
+*Austin, TX • Mar-Dec 2024*
 
-- Drove **75K installs**, **33% onboarding lift**, **46% → 61% retention** [file:21].
-- Boosted DAU/MAU **40%** via personalized notifications and cohort analysis [file:21].
+- **75K installs**, **33% onboarding**, **46%→61% retention** [file:21].
+- **40% DAU/MAU lift** via notifications + cohorts [file:21].
 
 ---
 
@@ -149,20 +132,28 @@ Industries:
 
 <div align="center">
 
-### AI/ML & Cloud
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-
-### Product Tools
+### Product Management
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/Productboard-73C4FF?style=for-the-badge&logo=productboard&logoColor=white" alt="Productboard" />
+<img src="https://img.shields.io/badge/Smartsheet-00C851?style=for-the-badge&logo=smartsheet&logoColor=white" alt="Smartsheet" />
 
-### Data & DevOps
+### AI/ML & Data
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
+### Cloud & Enterprise
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/SAP-F0C140?style=for-the-badge&logo=sap&logoColor=black" alt="SAP" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+
+### DevOps & APIs
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/REST_API-0C4B33?style=for-the-badge&logo=simple-icons&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Microservices-430098?style=for-the-badge&logo=simple-icons&logoColor=white" alt="Microservices" />
 
 </div>
 
@@ -175,7 +166,7 @@ Industries:
 | Project | Impact | Tech |
 |---------|--------|------|
 | **RAG Invoice Extraction** | 400+ hrs saved/mo | LLM + AWS |
-| **AP Modernization** | $2.4M savings | SAP→AWS |
+| **SAP→AWS Modernization** | $2.4M savings | Microservices |
 | **AML Reporting Engine** | $50M+ processed | Python + ISO 20022 |
 | **D2C Mobile App** | 75K installs | A/B + Analytics |
 
@@ -206,19 +197,29 @@ Industries:
 
 ---
 
-## 🎓 Certifications & Education
+## 🏆 Certifications
 
 <div align="center">
 
-| Certification | Organization |
-|---------------|--------------|
-| **CSPO** | Scrum Alliance [file:21] |
-| **CSM** | Scrum Alliance [file:21] |
-| **Advanced Google Analytics** | Google [file:21] |
-| **Product Analytics** | Professional Cert [file:21] |
+| Certification | Organization | Year |
+|---------------|--------------|------|
+| Certified Scrum Product Owner (**CSPO**) | Scrum Alliance | [file:21] |
+| Certified Scrum Master (**CSM**) | Scrum Alliance | [file:21] |
+| Advanced Google Analytics | Google | [file:21] |
+| Product Analytics Certification | Professional | [file:21] |
 
-**MS Information Technology Management** — Oakland University (2022-2023)  
-**BE Computer Science** — RGPV Bhopal (2013-2017)
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Dates |
+|--------|-------------|-------|
+| **MS Information Technology Management** | Oakland University | 2022-2023 |
+| **BE Computer Science** | RGPV Bhopal | 2013-2017 |
 
 </div>
 
