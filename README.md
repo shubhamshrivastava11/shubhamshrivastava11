@@ -48,12 +48,12 @@ Expert in shipping LLM/RAG platforms that drive $2.4M+ cost savings, 38% faster 
 
 | Impact | Metric |
 |--------|--------|
-| **Cost Savings** | $2.4M annual savings via AWS modernization [file:21] |
-| **Workflow Automation** | 400+ analyst hours saved/month [file:21] |
-| **Cycle Time** | 38% faster invoice processing [file:21] |
-| **Product Growth** | 75K+ installs, 61% retention [file:21] |
-| **Compliance** | 97% submission success rate [file:21] |
-| **Data Accuracy** | 41% improvement in platform data [file:21] |
+| **Cost Savings** | $2.4M annual savings via AWS modernization |
+| **Workflow Automation** | 400+ analyst hours saved/month |
+| **Cycle Time** | 38% faster invoice processing |
+| **Product Growth** | 75K+ installs, 61% retention |
+| **Compliance** | 97% submission success rate |
+| **Data Accuracy** | 41% improvement in platform data |
 
 </div>
 
@@ -99,32 +99,32 @@ Expertise:
 **Senior Product Manager — Enterprise AI & Platform**  
 *Jersey City, NJ • Oct 2025 – Present*
 
-- Led global AP transformation **SAP→AWS**, **$2.4M savings**, **38% cycle time reduction** [file:21].
-- Shipped RAG invoice extraction + LLM guardrails, **400+ hours saved/month** [file:21].
-- ICE-scored 200-item backlog, **25% faster supplier onboarding** [file:21].
-- AI anomaly detection + ERP integration, **40% fewer data errors** [file:21].
+- Led global AP transformation **SAP→AWS**, **$2.4M savings**, **38% cycle time reduction**.
+- Shipped RAG invoice extraction + LLM guardrails, **400+ hours saved/month**.
+- ICE-scored 200-item backlog, **25% faster supplier onboarding**.
+- AI anomaly detection + ERP integration, **40% fewer data errors**.
 
 ### 📋 **Deloitte Consulting**  
 **Product Manager — Government Compliance**  
 *Jersey City, NJ • May-Oct 2025 (MD Dept. of Education)*
 
-- UAT for 6 modules, **41% higher data accuracy** [file:21].
-- Text-clustered 1,200-item backlog, **34% sprint velocity boost** [file:21].
-- QA triage redesign, **4 days → 1.6 days** defect resolution [file:21].
+- UAT for 6 modules, **41% higher data accuracy**.
+- Text-clustered 1,200-item backlog, **34% sprint velocity boost**.
+- QA triage redesign, **4 days → 1.6 days** defect resolution.
 
 ### 🏦 **Cygnus Compliance**  
 **Product Manager — AML & Regulatory**  
 *New York, NY • Jan-Mar 2025 (Bank of China)*
 
-- ISO 20022/PCI-DSS MVP in **8 weeks**, **$50M+ transactions** [file:21].
-- Python AML models, **85% → 97%** success rate [file:21].
+- ISO 20022/PCI-DSS MVP in **8 weeks**, **$50M+ transactions**.
+- Python AML models, **85% → 97%** success rate.
 
 ### 📱 **Digital iTechnology**  
 **Product Manager — D2C Mobile App**  
 *Austin, TX • Mar-Dec 2024*
 
-- **75K installs**, **33% onboarding**, **46%→61% retention** [file:21].
-- **40% DAU/MAU lift** via notifications + cohorts [file:21].
+- **75K installs**, **33% onboarding**, **46%→61% retention**.
+- **40% DAU/MAU lift** via notifications + cohorts.
 
 ---
 
@@ -201,12 +201,12 @@ Expertise:
 
 <div align="center">
 
-| Certification | Organization | Year |
-|---------------|--------------|------|
-| Certified Scrum Product Owner (**CSPO**) | Scrum Alliance | [file:21] |
-| Certified Scrum Master (**CSM**) | Scrum Alliance | [file:21] |
-| Advanced Google Analytics | Google | [file:21] |
-| Product Analytics Certification | Professional | [file:21] |
+| Certification | Organization |
+|---------------|--------------|
+| Certified Scrum Product Owner (**CSPO**) | Scrum Alliance |
+| Certified Scrum Master (**CSM**) | Scrum Alliance |
+| Advanced Google Analytics | Google |
+| Product Analytics Certification | Professional |
 
 </div>
 
