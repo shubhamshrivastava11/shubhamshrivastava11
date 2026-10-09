@@ -2,7 +2,10 @@
 
 <div align="center">
 
-<img src="./banner.svg" alt="Shubham Shrivastava, Senior Product Manager, Enterprise AI and Platforms" width="100%" />
+<h1>Shubham Shrivastava</h1>
+
+<p><b>Senior Product Manager · Enterprise AI & Platforms</b><br />
+<sub>Johnson & Johnson · Founder, Locus AI</sub></p>
 
 <a href="https://github.com/shubhamshrivastava11">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=7C6CF0&center=true&vCenter=true&width=620&lines=Building+Locus+AI%3A+memory+for+AI+agents;LLMs+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+AI+agents;Enterprise+AI+at+Johnson+%26+Johnson;0%E2%86%921+products+in+FinTech%2C+MedTech%2C+GovTech" alt="Building Locus AI; LLMs, RAG, MCP, AI agents; Enterprise AI at Johnson & Johnson; 0 to 1 products in FinTech, MedTech, GovTech" />
@@ -11,7 +14,7 @@
 <br />
 
 <a href="https://linkedin.com/in/shubhamshrivastava11"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://shubham-pm-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Case_studies-6D5AE6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://shubham-portfolio-flax.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Case_studies-6D5AE6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <img src="https://img.shields.io/badge/Jersey_City%2C_NJ-Open_to_relocation-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Jersey City, NJ, open to relocation" />
 
 <br /><br />
@@ -24,18 +27,18 @@
 
 ## About
 
-I'm a product manager with 8+ years across enterprise platforms, AI products and 0→1 builds in healthcare, financial services, government and commerce. I take products from discovery and roadmap through launch and adoption, and I work hands-on with LLMs, RAG, AI agents, APIs and data platforms.
+Product manager with 8+ years across enterprise platforms, AI products and 0→1 builds in healthcare, financial services, government and commerce. I own products from discovery and roadmap through launch and adoption, and I work hands-on with LLMs, RAG, AI agents, APIs and data platforms.
 
-Right now I lead enterprise AI and payments work at **Johnson & Johnson**, and I'm building **[Locus AI](#locus-ai)**, an organizational memory layer that people and AI agents query before they act.
+At **Johnson & Johnson** I lead enterprise AI and payments initiatives across a $75M+ portfolio. Outside work I'm building **[Locus AI](#locus-ai)**, an organizational memory layer that people and AI agents query before they act.
 
 ## Now
 
-| | |
+| Focus | Detail |
 |---|---|
-| 🧠 **Building** | Locus AI: multi-agent orchestration on shared, permission-aware memory |
-| 🏢 **Day job** | Product Manager II, Enterprise AI & Platforms, Johnson & Johnson |
-| 📝 **Writing** | A research paper on decision-centric memory for AI agents |
-| 🤝 **Open to** | Locus AI design partners, and builders working on agent memory |
+| **Role** | Product Manager II, Enterprise AI & Platforms, Johnson & Johnson |
+| **Building** | Locus AI: multi-agent orchestration on shared, permission-aware memory |
+| **Research** | Decision-centric memory for AI agents (paper in progress) |
+| **Open to** | Design partners for Locus AI and builders working on agent memory |
 
 ## Impact
 
