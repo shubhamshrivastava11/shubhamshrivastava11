@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:312E81,100:6D5AE6&text=Shubham%20Shrivastava&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Senior%20Product%20Manager%20%C2%B7%20Enterprise%20AI%20%26%20Platforms&descSize=17&descAlignY=58" alt="Shubham Shrivastava, Senior Product Manager, Enterprise AI and Platforms" width="100%" />
+<img src="./banner.svg" alt="Shubham Shrivastava, Senior Product Manager, Enterprise AI and Platforms" width="100%" />
 
 <a href="https://github.com/shubhamshrivastava11">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=7C6CF0&center=true&vCenter=true&width=620&lines=Building+Locus+AI%3A+memory+for+AI+agents;LLMs+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+AI+agents;Enterprise+AI+at+Johnson+%26+Johnson;0%E2%86%921+products+in+FinTech%2C+MedTech%2C+GovTech" alt="Building Locus AI; LLMs, RAG, MCP, AI agents; Enterprise AI at Johnson & Johnson; 0 to 1 products in FinTech, MedTech, GovTech" />
@@ -219,6 +219,5 @@ flowchart LR
 
 <sub>Always happy to talk with teams running AI agents in production. The fastest way to reach me is <a href="https://linkedin.com/in/shubhamshrivastava11">LinkedIn</a>.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:6D5AE6,100:312E81&section=footer" alt="" width="100%" />
 
 </div>
