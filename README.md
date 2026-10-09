@@ -13,11 +13,8 @@
 
 <br />
 
-<a href="https://linkedin.com/in/shubhamshrivastava11"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://shubham-portfolio-flax.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Case_studies-6D5AE6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<img src="https://img.shields.io/badge/Jersey_City%2C_NJ-Open_to_relocation-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Jersey City, NJ, open to relocation" />
-
-<br /><br />
+<a href="https://linkedin.com/in/shubhamshrivastava11"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="24" /></a>&nbsp;
+<a href="https://shubham-portfolio-flax.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6D5AE6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" height="24" /></a>
 
 **[About](#about)** · **[Now](#now)** · **[Impact](#impact)** · **[Experience](#experience)** · **[Projects](#projects)** · **[Skills](#skills)** · **[Education](#education)**
 
